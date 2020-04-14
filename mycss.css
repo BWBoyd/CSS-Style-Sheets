@@ -1,0 +1,27 @@
+body { 
+	background-color:#E5E4E2;
+ font-family:Monospace;
+       font-size:12pt; }
+td, th { border:1px solid black; 
+         border-collapse:collapse;
+         white-space:pre;
+         text-align: center;
+       }
+th { color:white;
+     background-color:black;
+   }
+table, tr, td, th { padding: 2px; margin: 0px ;white-space:pre; }
+table { margin-left:25px;
+        border:3px solid black;
+        width:50%;
+      }
+h2 {
+ font-family:Tahoma;
+ color:#6D7B8D;
+}
+.footer 
+{ color:green; 
+  margin-left:25px; 
+  font-family:Tahoma;
+  font-size:8pt;
+}
